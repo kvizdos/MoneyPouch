@@ -1,0 +1,8 @@
+name: MoneyPouch
+version: 1.0
+main: com.Kento.StrukCraftMoneyPouch.Main
+description: Money Pouch
+commands:
+  mp:
+    description: Main Commands!
+    usage: /<command>
